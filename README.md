@@ -95,3 +95,47 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
 - [The longitude problem: history's deadliest riddle](https://www.youtube.com/watch?v=3mHC-Pf8-dU)
 - [About Time Documentary 1962](https://www.youtube.com/watch?v=e__emnxC2Gc)
 
+## Number Row Characters
+- '~' - tilde, swung dash
+- '!' - exclamation point
+- '@' - at sign
+- '#' - hash
+- '$' - dollar sign
+- '%' - percent 
+- '^' - caret
+- '&' - and sign
+- '*' - star key
+- '(' - left parenthesis
+- ')' - right parenthesis
+- '_' - underscore
+- '+' - addition sign
+
+## Links 
+[Markdown Guide] (https://www.markdownguide.org/getting-started) 
+/ [Github Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
+
+## Emojis 
+😺 i love cats 😸
+♥️ Favourite Emojis ❤️
+- 🐈‍⬛
+- 😻
+- 🙀
+- 😹
+
+## Images 
+![025C01A7-C935-4F96-AD89-DEC7AB001DF3_1_105_c](https://github.com/user-attachments/assets/98943527-6c62-4b06-a748-aa89c121e5dc)
+
+
+## ASCII Art 
+```
+  ________                     
+ /  _____/_____ _______ ___.__.
+/   \  ___\__  \\_  __ <   |  |
+\    \_\  \/ __ \|  | \/\___  |
+ \______  (____  /__|   / ____|
+        \/     \/       \/     
+```                     
+
+
+
+
